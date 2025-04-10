@@ -1,6 +1,0 @@
-CREATE TABLE employees (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    nom VARCHAR(100),
-    poste VARCHAR(100),
-    salaire FLOAT
-);
